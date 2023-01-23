@@ -14,6 +14,9 @@ export const Button = styled.button`
     cursor: pointer;
   @media ${device.tablet} {
     max-width: 768px;
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
     @media ${device.laptop} {
     max-width: 800px;
     @media ${device.desktop} {
