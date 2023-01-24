@@ -12,10 +12,7 @@ export const Button = styled.button`
     height: 75px;
     border-radius: 50px;
     cursor: pointer;
-    margin: 0 0 90px;
-    @media ${device.tablet} {
-    max-width: 768px;
-    margin: 0 0 200px;
+    margin: 0px 70px 90px 30px;
   @media ${device.tablet} {
     max-width: 768px;
     margin: 0 0 80px;
@@ -27,5 +24,5 @@ export const Button = styled.button`
   }
  }
 }
-}
+
 `

@@ -1,7 +1,11 @@
 import styled from "styled-components";
+import { device } from "../Device.size";
 
-export const Container = styled.div`
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+export const Footer = styled.div`
+  flex: 0 0 auto;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  
 `
