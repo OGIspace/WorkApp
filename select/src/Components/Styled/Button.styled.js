@@ -12,10 +12,10 @@ export const Button = styled.button`
     height: 75px;
     border-radius: 50px;
     cursor: pointer;
-    margin: 0px 70px 90px 30px;
+    margin: 0px 90px 90px 30px;
   @media ${device.tablet} {
     max-width: 768px;
-    margin: 0 0 80px;
+    margin: 0 50px 70px 80px;
     @media ${device.laptop} {
     max-width: 800px;
     @media ${device.desktop} {
