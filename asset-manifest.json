@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WorkApp/static/css/main.d875b96f.css",
-    "main.js": "/WorkApp/static/js/main.b1d09304.js",
+    "main.css": "/WorkApp/static/css/main.30980e45.css",
+    "main.js": "/WorkApp/static/js/main.07dbc6cc.js",
     "static/js/787.e6abd67d.chunk.js": "/WorkApp/static/js/787.e6abd67d.chunk.js",
     "index.html": "/WorkApp/index.html",
-    "main.d875b96f.css.map": "/WorkApp/static/css/main.d875b96f.css.map",
-    "main.b1d09304.js.map": "/WorkApp/static/js/main.b1d09304.js.map",
+    "main.30980e45.css.map": "/WorkApp/static/css/main.30980e45.css.map",
+    "main.07dbc6cc.js.map": "/WorkApp/static/js/main.07dbc6cc.js.map",
     "787.e6abd67d.chunk.js.map": "/WorkApp/static/js/787.e6abd67d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d875b96f.css",
-    "static/js/main.b1d09304.js"
+    "static/css/main.30980e45.css",
+    "static/js/main.07dbc6cc.js"
   ]
 }
