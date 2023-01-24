@@ -12,16 +12,20 @@ export const Button = styled.button`
     height: 75px;
     border-radius: 50px;
     cursor: pointer;
+    margin: 0 0 90px;
+    @media ${device.tablet} {
+    max-width: 768px;
+    margin: 0 0 200px;
   @media ${device.tablet} {
     max-width: 768px;
-    margin: 0 auto;
-    align-items: center;
-    align-content: center;
+    margin: 0 0 80px;
     @media ${device.laptop} {
     max-width: 800px;
     @media ${device.desktop} {
     max-width: 1400px;
+    margin: 0 80px 80px;
   }
+ }
 }
-  }
+}
 `

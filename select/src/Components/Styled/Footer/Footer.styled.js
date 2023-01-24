@@ -7,13 +7,5 @@ export const Footer = styled.div`
   position: fixed;
   left: 0;
   bottom: 0;
-  @media ${device.tablet} {
-    max-width: 768px;
-    @media ${device.laptop} {
-    max-width: 800px;
-    @media ${device.desktop} {
-    max-width: 1400px;
-  }
-}
-  }
+
 `
